@@ -81,5 +81,5 @@ Put your YouTube video link.
 
 # Code
 
--- RC car controll uing Webpage
-Go above and click Web_control > 
+- Webpage control : Go above click Web_control > RC_car_using_webpage.ino
+- App control : Go above click App_control_ > RC_car_using_webpage.ino
