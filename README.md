@@ -62,8 +62,8 @@ Car:
 # Screenshots
 **Web Interface**
 
-Insert screenshot.
+![Circuit Diagram](esp8266_car_using_webpage.jpeg)
 
 **RemoteXY App**
 
-Insert screenshot.
+![Circuit Diagram](esp8266_car_using_app.jpeg)
