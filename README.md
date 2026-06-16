@@ -21,7 +21,7 @@ ESP8266-based WiFi RC Car with dual control modes: Manual and Auto. Control the 
 | ESP8266 NodeMCU           | 1        |
 | L298N Motor Driver        | 1        |
 | HC-SR04 Ultrasonic Sensor | 1        |
-| DC Gear Motors            | 2        |
+| DC Gear Motors            | 4        |
 | Chassis                   | 1        |
 | Battery Pack              | 1        |
 
@@ -70,4 +70,4 @@ Car:
 
 - For RemoteXY version first watch below video
   
-[Watch video]((https://youtu.be/F3T0NSiQITM?si=ly5TRRQ8wjIt9gEx))
+[Watch video](https://youtu.be/F3T0NSiQITM?si=ly5TRRQ8wjIt9gEx)
