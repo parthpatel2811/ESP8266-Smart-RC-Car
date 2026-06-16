@@ -40,3 +40,30 @@ ESP8266-based WiFi RC Car with dual control modes: Manual and Auto. Control the 
 
 # Circuit Diagram
 ![Circuit Diagram](esp8266_rc_car_circuit.png)
+
+# Working
+**Manual Mode**
+
+User controls the car through:
+
+- Web Browser Interface
+- RemoteXY Mobile App
+
+**Auto Mode**
+
+Car:
+
+1. Moves forward
+2. Detects obstacle
+3. Turns right
+4. If obstacle detected repeatedly
+5. Turns left and searches for a free path
+
+# Screenshots
+**Web Interface**
+
+Insert screenshot.
+
+**RemoteXY App**
+
+Insert screenshot.
