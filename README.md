@@ -4,10 +4,15 @@ ESP8266-based WiFi RC Car with dual control modes: Manual and Auto. Control the 
 # Features
 
 ✅ WiFi-based Web Control
+
 ✅ Mobile App Control using RemoteXY
+
 ✅ Manual Driving Mode
+
 ✅ Automatic Obstacle Avoidance Mode
+
 ✅ ESP8266 Access Point Control
+
 ✅ Ultrasonic Distance Measurement
 
 # Components Used
@@ -34,3 +39,4 @@ ESP8266-based WiFi RC Car with dual control modes: Manual and Auto. Control the 
 | D0      | Echo    |
 
 # Circuit Diagram
+![Circuit Diagram](esp8266_rc_car_circuit.png)
