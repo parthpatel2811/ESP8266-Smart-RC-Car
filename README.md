@@ -68,8 +68,8 @@ Car:
 
 ![Circuit Diagram](esp8266_car_using_app.jpeg)
 
-- For RemoteXY version first watch below video
-  
+# RemoteXY version first watch below video
+- Video for RemoteXY 
 [Watch video](https://youtu.be/F3T0NSiQITM?si=ly5TRRQ8wjIt9gEx)
 
 # Demo Video
